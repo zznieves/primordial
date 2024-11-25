@@ -1,6 +1,5 @@
 # Primordial
-
-<p></p>
+![primordial_icon](https://github.com/user-attachments/assets/d1862b36-2000-4606-8976-31e302395eec)
 
 
 ## Tools
